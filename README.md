@@ -68,7 +68,7 @@ Future work will explore **multiple regression models** to investigate the relat
 
 ## 🔗 Additional Resources
 - **Video Presentation**: [Watch here](https://drive.google.com/file/d/1EpJnIGnh_tcMwjZvERKL8j3Op2BXzzrm/view?usp=sharing)  
-- **PowerPoint Presentation**: [View here](https://docs.google.com/presentation/d/18NPzqp9rfj6uuJFAQ3W3KdrVXGsIk5z6/edit?usp=sharing&ouid=102373423325166728202&rtpof=true&sd=true)  
+- **PowerPoint Presentation**: [View here](https://docs.google.com/presentation/d/18NPzqp9rfj6uuJFAQ3W3KdrVXGsIk5z6/edit?usp=sharing&rtpof=true&sd=true)  
 - **Dataset**: [Access on Kaggle](https://www.kaggle.com/datasets/hhs/health-insurance-marketplace)  
 
 ---
